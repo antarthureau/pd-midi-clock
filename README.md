@@ -7,3 +7,5 @@ or setup a virtaual port on macOS (https://support.apple.com/en-gb/guide/audio-m
 
 This patch uses the object "counter", from the cyclone library. Therefore, it needs the library to be installed in order to run. It is also possible
 to bypass that object and make an equivalent with Pd vanilla's set of objects.
+
+I also made a youtube video to explain how to use the patch https://youtu.be/HYfpC8n7H6o.
