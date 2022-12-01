@@ -9,3 +9,5 @@ This patch uses the object "counter", from the cyclone library. Therefore, it ne
 to bypass that object and make an equivalent with Pd vanilla's set of objects.
 
 I also made a youtube video to explain how to use the patch https://youtu.be/HYfpC8n7H6o.
+
+The clock out patch is a work in progress, but can be used as a basis to develop further.
